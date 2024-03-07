@@ -24,18 +24,20 @@ prod_credit_card|Sản phẩm thẻ tín dụng
 1. Đổi tên cột customer_id thành cust_id
 
 2. Số lượng và Tỷ trọng khách hàng theo từng phân khúc là bao nhiêu?
+
 Cấu trúc bảng kết quả:
 Segment|Number Of Customers|Proportion (%)
 ---|---|---
 
 3. Khách hàng của từng phân khúc tập trung chủ yếu ở những tỉnh, thành phố nào? Sắp xếp theo thứ tự từ lớn nhất đến nhỏ nhất của các cột Regular, Silver, Gold. 
+
 Cấu trúc bảng kết quả:
 Province/City |Regular |Silver |Gold
 ---|---|---|---
 
 4. AUM của khách hàng (Min, Q25, Q50, Q75, Q90, Max, Mean) giữa các phân khúc là như thế nào? (tạo bảng và vẽ box plot cho 3 segment) 
-Cấu trúc bảng kết quả:
 
+Cấu trúc bảng kết quả:
 Segment| Min|Q25 |Q50 |Q75 |Q90 |Max |Mean 
 ---|---|---|---|---|---|---|---
 
